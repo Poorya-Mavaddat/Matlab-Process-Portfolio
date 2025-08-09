@@ -1,0 +1,3 @@
+Optimal Reflux Ratio R*: 3.772589
+Optimal Energy E*: 11.888802
+Purity at Optimum P(R*): 0.950000
